@@ -1,4 +1,4 @@
-
+// efeito digitação
 function Dati(elemento){
     const textox = elemento.innerHTML.split('');
     elemento.innerHTML = '';
