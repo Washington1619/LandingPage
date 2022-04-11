@@ -1,1 +1,1 @@
-# LandingPage para testes 
+# LandingPage para apresentação.
