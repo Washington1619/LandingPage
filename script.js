@@ -3,7 +3,7 @@ function Dati(elemento){
     const textox = elemento.innerHTML.split('');
     elemento.innerHTML = '';
     textox.forEach((letra, i)=>{
-        setTimeout(()=> elemento.innerHTML += letra, 90*i)
+        setTimeout(()=> elemento.innerHTML += letra, 100*i)
         })
     };
 
